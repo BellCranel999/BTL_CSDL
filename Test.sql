@@ -80,14 +80,7 @@ CREATE TABLE Khoa
 );
 GO
 
-CREATE TABLE SinhVien(
-    masv char(10) NOT NULL,
-    tensv varchar(20) NOT NULL,
-    quequan varchar(20),
-    ghichu varcher(20),
-    CONSTRAINT PK_maSV PRIMARY KEY(masv),
-    CONSTRAINT PK_tenSV PRIMARY KEY (tensv)
-);
+
 
 -- CREATE TABLE MONTH(
 --     maMH char(10) NOT NULL,
