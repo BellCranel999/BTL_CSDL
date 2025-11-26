@@ -89,10 +89,10 @@ CREATE TABLE SinhVien(
     CONSTRAINT PK_tenSV PRIMARY KEY (tensv)
 );
 
-CREATE TABLE MONTH(
-    maMH char(10) NOT NULL,
-    makhoa char(10) NOT NULL,
+-- CREATE TABLE MONTH(
+--     maMH char(10) NOT NULL,
+--     makhoa char(10) NOT NULL,
     
-);
+-- );
 
 
